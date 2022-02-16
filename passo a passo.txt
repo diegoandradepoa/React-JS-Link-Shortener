@@ -1,0 +1,13 @@
+Instalar as bibliotecas abaixo
+
+# React router dom
+
+npm install react-router-dom
+
+# React Icons
+
+npm install react-icons
+
+# Axios - Para fazer requisiçoes https
+
+npm install axios
